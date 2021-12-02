@@ -1,0 +1,8 @@
+torchvision
+torch
+tensorboard
+dominate
+visdom
+fastai
+tensorboardX
+
